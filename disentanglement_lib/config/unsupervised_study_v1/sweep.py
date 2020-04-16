@@ -114,7 +114,7 @@ def get_config():
       get_datasets(),
       architecture,
       get_default_models(),
-      get_seeds(5),
+      get_seeds(1),
   ])
 
 
